@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header {
+    background-color: rgb(71, 12, 106);
+    height: 300 px;
+    padding: 60px 30px 80px 80px; 
+    display: flex; 
+    justify-content: center;  
+}
+.imagens {
+    height: 400px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.players {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly
+}
+.video {
+    width: 540px;
+    height: 315px;
+}
+#titulos {
+    margin-top: 80px; 
+    font-size: 45px;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(224, 146, 47);
+    display: flex;
+    justify-content: center;
+}
+#mapa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+    padding-bottom: 200px;
+}    
