@@ -13,6 +13,7 @@ header {
 .imagens {
     height: 400px;
     padding: 5px;
+    border-bottom: 10px solid rgb(224, 146, 47);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
